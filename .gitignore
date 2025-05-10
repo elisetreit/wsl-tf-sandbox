@@ -1,1 +1,6 @@
 input/
+*.h5
+*.npy
+*.csv
+/models/saved/
+**/logs/
